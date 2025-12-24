@@ -14,11 +14,6 @@ The purpose of this repository is to provide us with **hands-on experience in Py
 
 ---
 
-## 👨‍🏫 Instructor Information
-
-- **Instructor Name:** Irshad Ullah  
-- **Role:** Course Instructor  
-
 ---
 
 ## 📚 Course Overview
