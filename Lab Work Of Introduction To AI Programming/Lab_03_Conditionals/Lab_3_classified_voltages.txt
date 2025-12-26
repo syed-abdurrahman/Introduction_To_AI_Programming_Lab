@@ -1,0 +1,6 @@
+90.0V , Low
+120.0V , Medium
+230.0V , High
+110.0V , Medium
+200.0V , Medium
+300.0V , High
