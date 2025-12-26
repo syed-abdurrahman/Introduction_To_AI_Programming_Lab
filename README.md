@@ -72,18 +72,35 @@ Each lab is maintained in a separate directory to ensure clarity, modularity, an
 ```text
 Introduction-To-AI-Programming
 │
-├── Lab_01/   Installation
-├── Lab_02/   Python Basic Data Types
-├── Lab_03/   Conditional Statements
-├── Lab_04/   User-Defined Functions
-├── Lab_05/   Frequently Used Methods
-├── Lab_06/   Lists and Tuples
-├── Lab_07/   Dictionaries
-├── Lab_08/   Lambda Functions
-├── Lab_09/   Loops
-├── Lab_10/   List Comprehension
-├── Lab_11/   Dictionary Comprehension
-├── Lab_12/   Exception Handling (Introduction)
-├── Lab_13/   File Handling
+├── Assignments
+├── Certificates
+├── Lab Reports Of Introduction To AI Proramming
+    ├── Lab_01/   Installation
+    ├── Lab_02/   Python Basic Data Types
+    ├── Lab_03/   Conditional Statements
+    ├── Lab_04/   User-Defined Functions
+    ├── Lab_05/   Frequently Used Methods
+    ├── Lab_06/   Lists and Tuples
+    ├── Lab_07/   Dictionaries
+    ├── Lab_08/   Lambda Functions
+    ├── Lab_09/   Loops
+    ├── Lab_10/   List Comprehension
+    ├── Lab_11/   Dictionary Comprehension
+    ├── Lab_12/   Exception Handling (Introduction)
+    ├── Lab_13/   File Handling
+├── Lab Work Of Introduction To AI Proramming
+    ├── Lab_01/   Installation
+    ├── Lab_02/   Python Basic Data Types
+    ├── Lab_03/   Conditional Statements
+    ├── Lab_04/   User-Defined Functions
+    ├── Lab_05/   Frequently Used Methods
+    ├── Lab_06/   Lists and Tuples
+    ├── Lab_07/   Dictionaries
+    ├── Lab_08/   Lambda Functions
+    ├── Lab_09/   Loops
+    ├── Lab_10/   List Comprehension
+    ├── Lab_11/   Dictionary Comprehension
+    ├── Lab_12/   Exception Handling (Introduction)
+    ├── Lab_13/   File Handling
 │
 └── README.md
